@@ -3,16 +3,16 @@
 		"name": "ROBIN",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
+		"email": "2019KUCP1090@IIITKOTA.AC.IN",
+		"phone": "9116724833",
 		"website": "---Enter Link of website(if any) ---",
 		"summary": "---Tell Something about yourself ---",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "MOH-AHAHNGIRAN ,JAHANGIRABAD",
+			"postalCode": "203394",
+			"city": "BULANDSHAHR",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "UTTAR PRADESH"
 		},
 		"profiles": [{
 				"network": "Twitter",
@@ -22,12 +22,12 @@
 			{
 				"network": "Github",
 				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"url": "https://github.com/choudhary-robin/<handle>/"
 			},
 			{
 				"network": "linkedin",
 				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"url": "https://www.linkedin.com/in/robin-188180191<username>/"
 			},
 			{
 				"network": "Instagram",
@@ -58,9 +58,9 @@
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
+		"startDate": "2019-04-08 //Date",
 		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"gpa": "7.64",
 		"courses": [
 			"Computer Science & Engineering"
 		]
@@ -73,11 +73,11 @@
 	"publications": [{
 		"title": "---Enter Title---",
 		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
+		"link": "https://github.com/choudhary-robin"
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"keywords": ["HTML", "CSS", "Javascript", "Python, "C/C++", "MySql"]
 	}],
 	"interests": [{
 		"name": "Sports",
