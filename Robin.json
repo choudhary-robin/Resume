@@ -77,11 +77,13 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "Python, "C/C++", "MySql"]
+		"keywords": ["HTML", "CSS", "Javascript", "Python"]
+
 	}],
+
 	"interests": [{
 		"name": "Sports",
-		"keywords": [ "Cricket"]
+		"keywords": ["Cricket"]
 	}],
 	"references": []
 }
